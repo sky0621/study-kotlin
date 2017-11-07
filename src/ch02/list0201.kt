@@ -33,3 +33,5 @@ fun max(a: Int, b: Int): Int {
 
 // 戻り値を省略の上、ワンライナー
 fun add(x: Int, y: Int) = if (x > 0 && y > 0) x + y else 0
+
+fun sub(x: Int, y: Int) = if (x < 0 || y < 0) 0 else x - y
