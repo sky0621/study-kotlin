@@ -12,4 +12,15 @@ fun main(args: Array<String>) {
 
     val map = hashMapOf(3 to "Kotlin", 9 to "Golang", 55 to "Scala")
     println(map)
+
+    val strings = listOf("first","second","third")
+    println(strings.last())
+    println(strings.first())
+    println(strings.get(2))
+    println(strings.subList(1,3))
+
+    val numbers = setOf(3, 11, 2, 9, 26, 5)
+    println(numbers.size)
+    println(numbers.max())
+    println(numbers.min())
 }
