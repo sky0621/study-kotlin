@@ -1,4 +1,4 @@
-package ch02b
+package old.ch02b
 
 import java.util.*
 

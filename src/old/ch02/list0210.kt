@@ -1,4 +1,4 @@
-package ch02
+package old.ch02
 
 /**
  * Created by SS on 2017/11/15.
@@ -21,7 +21,7 @@ fun main(args: Array<String>) {
 }
 
 fun getColor(s: Signal) = when (s) {
-    ch02.Signal.BLUE -> "Blue"
-    ch02.Signal.YELLOW -> "Yellow"
-    ch02.Signal.RED -> "Red"
+    old.ch02.Signal.BLUE -> "Blue"
+    old.ch02.Signal.YELLOW -> "Yellow"
+    old.ch02.Signal.RED -> "Red"
 }

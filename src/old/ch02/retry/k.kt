@@ -1,6 +1,4 @@
-package ch02.retry
-
-import com.sun.org.apache.xpath.internal.operations.Bool
+package old.ch02.retry
 
 /**
  * Created by SS on 2017/11/15.

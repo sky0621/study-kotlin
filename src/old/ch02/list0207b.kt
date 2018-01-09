@@ -1,6 +1,6 @@
-package ch02
+package old.ch02
 
-import ch02.list0208.Rectangle
+import old.ch02.list0208.Rectangle
 
 /**
  * Created by SS on 2017/11/08.
