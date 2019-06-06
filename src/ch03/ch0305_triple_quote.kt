@@ -12,3 +12,4 @@ fun main() {
     println()
     println(kotlinLogo.trimMargin())
 }
+
