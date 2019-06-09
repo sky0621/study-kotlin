@@ -1,4 +1,4 @@
-package ch04
+package ch.ch04
 
 sealed class Expr2 {
     class Num(val v: Int): Expr2()

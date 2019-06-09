@@ -1,4 +1,4 @@
-package ch03
+package ch.ch03
 
 fun main() {
     println("Kotlin".lastChar())

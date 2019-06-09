@@ -1,4 +1,4 @@
-package ch04
+package ch.ch04
 
 interface Clickable {
     fun click()
