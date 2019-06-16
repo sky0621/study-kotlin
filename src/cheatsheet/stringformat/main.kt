@@ -9,4 +9,12 @@ fun main(args: Array<String>) {
 
     val item = "商品１"
     println("${item}の値段は1000円です。")
+
+    val lang = """
+        Kotlin
+        Scala
+        Java
+        Ruby
+    """.trimIndent()
+    println(lang)
 }

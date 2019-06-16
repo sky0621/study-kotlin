@@ -8,6 +8,8 @@ fun main() {
     val al = arrayListOf(1, 3, 5, 7, 9, 11, 13, 15)
     println(al)
 
+    println("==================================")
+
     val s = setOf(7, 14, 21, 28, 35)
     println(s)
 
@@ -19,6 +21,8 @@ fun main() {
 
     val ss = sortedSetOf(11, 55, 22, 44, 33, 66)
     println(ss)
+
+    println("==================================")
 
     val m = mapOf(1 to "Red", 3 to "Green", 2 to "Blue")
     println(m)
